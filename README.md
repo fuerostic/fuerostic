@@ -11,9 +11,6 @@
 **fuerostic/fuerostic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,4 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- From Bangladesh :bangladesh:
+- :computer: Computer Science final year student
+- 🔭 I’m currently working on Machine learning projects
+- 🌱 I’m currently learning data science
+- :crossed_swords: love playing games
+
+

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - :computer: Computer Science final year student
 - 🔭 I’m currently working on Machine learning projects
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning Matlab
 - :crossed_swords: love playing games
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuerostic&theme=blue-green)](https://git.io/streak-stats)

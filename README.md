@@ -4,7 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/fuerostic?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/fuerostic?style=social)
-
+![Linkedin: fuerostic](https://img.shields.io/badge/-fuerostic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohtasim-fuad-132473148/)](https://www.linkedin.com/in/mohtasim-fuad-132473148/)
 <!--
 **fuerostic/fuerostic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Linkedin: fuerostic](https://img.shields.io/badge/-fuerostic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohtasim-fuad-132473148/)](https://www.linkedin.com/in/mohtasim-fuad-132473148/)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

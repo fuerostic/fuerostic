@@ -2,6 +2,9 @@
 
 ![](standard.gif)
 
+![GitHub followers](https://img.shields.io/github/followers/fuerostic?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/fuerostic?style=social)
+
 <!--
 **fuerostic/fuerostic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

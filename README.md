@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data science
 - :crossed_swords: love playing games
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuerostic&theme=blue-green)](https://git.io/streak-stats)
 
 ### Summary
 [![](https://raw.githubusercontent.com/fuerostic/fuerostic/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

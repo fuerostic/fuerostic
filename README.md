@@ -6,6 +6,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/fuerostic?style=social)
 [![Linkedin: fuerostic](https://img.shields.io/badge/-fuerostic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohtasim-fuad-132473148/)](https://www.linkedin.com/in/mohtasim-fuad-132473148/)
 
+
 ![Visitor Count](https://profile-counter.glitch.me/{fuerostic}/count.svg)
 <!--
 **fuerostic/fuerostic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +30,10 @@ Here are some ideas to get you started:
 
 ### Developer/Forums
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mohtasim-Fuad)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fuerostic)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Fuerostic)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@fuerostic)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/fuerostic)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](http://codeforces.com/profile/Fuerostic)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/fuerostic)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/fuerostic/)
